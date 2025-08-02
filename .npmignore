@@ -1,0 +1,11 @@
+# Fichiers à ignorer pour accélérer le build
+node_modules
+.next
+.git
+.gitignore
+*.md
+tsconfig*.json
+eslint.config.js
+postcss.config.js
+tailwind.config.js
+netlify.toml
